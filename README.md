@@ -1,1 +1,0 @@
-# Proyecto-2-Entrega-6-SVM
